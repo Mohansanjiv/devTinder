@@ -1,0 +1,68 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+logs/
+*.log.*
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Build Output
+build/
+dist/
+out/
+
+# Editor Specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency Directories
+/.pnp
+.pnp.js
+.pnp.cjs
+
+# Next.js
+.next/
+.vercel/
+*.vercel/
+
+# Expo or React Native
+.expo/
+.expo-shared/
+*.keystore
+
+# Angular
+.angular/
+.cache/
+*.tsbuildinfo
+
+# Temporary Files
+tmp/
+temp/
+
+# Coverage Reports
+coverage/
+lcov-report/
+
+# Specific Ignore for Config Files
+*.config.js
+*.config.ts
+
+# Custom Ignore Patterns
+*.bak
+*.old
+*.tmp
